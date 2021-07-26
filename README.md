@@ -1,6 +1,19 @@
-## Methodology
+## Cleaning
 
-Used YOLO5 with mosiac augmentation and non max supression
+Removed hats with area from the extremes
+
+## Augmentation
+
+Used mosiac augmentation 
+
+## Model used
+
+Used Yolo5 model 
+
+## Postprocessing
+
+Used Non max supression for post processing
+
 
 ## Results
 
