@@ -5,6 +5,7 @@ Removed hats with area from the extremes
 ## Augmentation
 
 Used mosiac augmentation 
+
 ![alt text](mosiac.png)
 
 ## Model used
