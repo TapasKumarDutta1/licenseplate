@@ -1,12 +1,6 @@
 ## Cleaning
 
-Removed hats with area from the extremes
-
-## Augmentation
-
-Used mosiac augmentation 
-
-![alt text](mosiac.png)
+Removed hats with area from the extremes(less than 10 and more than 20K)
 
 ## Model used
 
@@ -14,7 +8,7 @@ Used Yolo5 model
 
 ## Postprocessing
 
-Used Non max supression for post processing
+Used test time augmentation and weighted box fusion for post processing
 
 
 ## Results
