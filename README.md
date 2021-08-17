@@ -1,18 +1,15 @@
-## Cleaning
-
-Removed hats with area from the extremes(less than 10 and more than 20K)
-
 ## Model used
 
 Used Yolo5 model 
 
 ## Postprocessing
 
-Used test time augmentation and weighted box fusion for post processing
+Used test time augmentation and weighted box fusion 
 
+## Cross Validation
+
+Used KFold cross validation
 
 ## Results
 
-Used the alogorithm on youtube video
-### link to file
-Full video: https://drive.google.com/file/d/1QolHgQjHYFYXdW_WpRRCO8PjcpCjmDpo/view?usp=sharing
+Achieved a mAP of 0.934 to 0.942 for single prediction and 0.937 for ensemble prediction 
