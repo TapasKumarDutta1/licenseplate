@@ -1,3 +1,8 @@
+
+## Cross Validation
+
+Used KFold cross validation
+
 ## Model used
 
 Used Yolo5 model 
@@ -6,9 +11,6 @@ Used Yolo5 model
 
 Used test time augmentation and weighted box fusion 
 
-## Cross Validation
-
-Used KFold cross validation
 
 ## Results
 
